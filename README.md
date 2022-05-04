@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a few websites**
 
-- 🌱 I’m currently learning **about databases and APIs**
+- 🌱 I’m currently learning **fullstack development**
 
 - 📫 How to reach me **lekevin3@gmail.com**
 
